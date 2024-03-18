@@ -2,7 +2,7 @@
 
 _Think. Design. Develop. Launch. Repeat._
 
-![Profile banner](/assets/banner.png)
+![Profile banner](/assets/significa-github-banner-large.png)
 
 We create awesome digital experiences.
 
