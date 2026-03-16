@@ -11,3 +11,4 @@ We create awesome digital experiences.
 - Handbook: [significa.co/handbook](https://significa.co/handbook)
 - Twitter: [@significadotco](https://twitter.com/significadotco)
 - Instagram: [@significadotco](https://instagram.com/significadotco)
+- LinkedIn: [@significadotco](https://www.linkedin.com/company/significadotco)
